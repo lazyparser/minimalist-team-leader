@@ -17,15 +17,15 @@
     "output": null,
     "pdf": {
         "fontSize": 12,
-        "footerTemplate": null,
-        "headerTemplate": null,
+        "footerTemplate": "_PAGENUM_",
+        "headerTemplate": "_SECTION_",
         "margin": {
-            "bottom": 36,
-            "left": 62,
-            "right": 62,
-            "top": 36
+            "bottom": 6,
+            "left": 6,
+            "right": 6,
+            "top": 6
         },
-        "pageNumbers": false,
+        "pageNumbers": true,
         "paperSize": "b6"
     },
     "plugins": [],
