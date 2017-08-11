@@ -1,0 +1,34 @@
+{
+    "author": "Wei Wu <lazyparser@gmail.com>",
+    "description": "这是《极简团队管理》的 GitBook 在线版本",
+    "generator": "site",
+    "links": {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        },
+        "sidebar": {
+            "Wei Wu's Github": "https://github.com/lazyparser"
+        }
+    },
+    "output": null,
+    "pdf": {
+        "fontSize": 12,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 62,
+            "right": 62,
+            "top": 36
+        },
+        "pageNumbers": false,
+        "paperSize": "b6"
+    },
+    "plugins": [],
+    "title": "极简团队管理",
+    "variables": {}
+}
