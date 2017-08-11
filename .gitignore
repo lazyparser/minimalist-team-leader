@@ -218,3 +218,8 @@ TSWLatexianTemp*
 
 # expex forward references with \gathertags
 *-tags.tex
+.DS_Store
+/_book/
+*.bak
+*.tmp
+*.log
